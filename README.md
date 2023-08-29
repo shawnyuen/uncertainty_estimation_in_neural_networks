@@ -33,9 +33,11 @@
 ## 2020
 ### Brain Tumor Segmentation Using 3D-CNNs with Uncertainty Estimation arXiv 2020
 ### Confidence Calibration and Predictive Uncertainty Estimation for Deep Medical Image Segmentation IEEE TMI 2020
-### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation MICCAI 2018
+### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation MICCAI 2018 [[code]](https://github.com/tanyanair/segmentation_uncertainty)
 ### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation MedIA 2020
+"four voxel-based uncertainties, and one lesion-level uncertainties", "predicted variance", "MC sample variance", "predictive entropy", "mutual information"
 ### Uncertainty Estimation in Deep 2D Echocardiography Segmentation arXiv 2020
+"modelling uncertainty: MC dropout, HSE, TTA"
 
 ## 2019
 ### A Bayesian Neural Net to Segment Images with Uncertainty Estimates and Good Calibration IPMI 2019
